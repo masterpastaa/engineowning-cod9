@@ -30,7 +30,7 @@ void CG_DrawFPS()
 	
 
 
-	if(GetAsyncKeyState(VK_F1) & 1)
+	if(GetAsyncKeyState(VK_F1) & 1) // GetAsyncKeyState  What type of monkey are you roka ?
 	{
 		char Buffer[100];
 		sprintf(Buffer,"cmd mr %d 9 axis",*(int*)0x11D0ADC);
