@@ -4,7 +4,7 @@ Reverse engineered source code of the engineowning cheat for cod9
 Cracked by CODEX
 
 ------------------------------------------------------------------------------------------------
-notinjector = C:\Windows\AppVLicense.dll d
+notinjector = C:\Windows\Release\ .exe
 
 drSYS = C:\Windows\roka.sys
 
