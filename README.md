@@ -1,7 +1,7 @@
 # engineowning-cod9
 Reverse engineered source code of the engineowning cheat for cod9
 
-Cracked by CODEX
+Cracked by CODEX (not zerax)
 
 ------------------------------------------------------------------------------------------------
 notinjector = C:\Windows\Release\ .exe
